@@ -47,7 +47,7 @@
 
             if (selectedLanguage != null && !selectedLanguage.isEmpty()) {
                 out.println("<div id='result'>");
-                out.println("Awesome choice! " + selectedLanguage + " is a fantastic language!");
+                out.println("Awesome choice! " + selectedLanguage + " is a fantastic language!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
                 out.println("</div>");
             }
         %>
